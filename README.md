@@ -1,0 +1,1 @@
+Proyecto de control de una maqueta de Ferromodelismo usando Arduino. El fin es poder controlar tanto servos, como señales y tener detección de uso de vía.
